@@ -509,15 +509,17 @@ This project is for educational and demonstration purposes.
 - **Modern Tech Stack**: Current industry-standard technologies
 - **Best Practices**: Follows software engineering principles
 
-## � Complete Documentation
+## 📚 Complete Documentation
 
 | Document | Audience | What You'll Learn |
 |----------|----------|-------------------|
-| **� [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md)** | **Everyone** | Simple explanation of what the project does and why it's special |
+| **📖 [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md)** | **Everyone** | Simple explanation of what the project does and why it's special |
 | **🚀 [QUICK_START_GUIDE.md](QUICK_START_GUIDE.md)** | **Users** | Get running in 5 minutes with step-by-step instructions |
 | **🔧 [HOW_IT_WORKS.md](HOW_IT_WORKS.md)** | **Curious Minds** | Step-by-step journey of how questions are processed |
 | **🔬 [TECHNICAL_EXPLANATION.md](TECHNICAL_EXPLANATION.md)** | **Developers/Evaluators** | Deep technical details and architecture |
 | **🏗️ [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** | **Technical Teams** | Complete system architecture and deployment guide |
+| **🎯 [INTERVIEW_GUIDE.md](INTERVIEW_GUIDE.md)** | **Job Seekers** | Complete interview preparation with Q&A and demo scripts |
+| **📋 [PROJECT_CHEAT_SHEET.md](PROJECT_CHEAT_SHEET.md)** | **Quick Reference** | 2-minute project summary and key metrics |
 
 ### 🎯 Choose Your Path:
 
@@ -530,6 +532,10 @@ This project is for educational and demonstration purposes.
 **🔧 Need technical details?** → Check [TECHNICAL_EXPLANATION.md](TECHNICAL_EXPLANATION.md)
 
 **🏗️ Planning deployment?** → See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+
+**🎯 Preparing for interviews?** → Study [INTERVIEW_GUIDE.md](INTERVIEW_GUIDE.md)
+
+**📋 Need quick reference?** → Use [PROJECT_CHEAT_SHEET.md](PROJECT_CHEAT_SHEET.md)
 
 ---
 
