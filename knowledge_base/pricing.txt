@@ -1,0 +1,52 @@
+Pricing Plans and Billing Information
+
+Starter Plan - $29/month
+- 1,000 API calls per month
+- Email support (48-hour response time)
+- Basic analytics dashboard
+- Community forum access
+- 1 user account
+
+Professional Plan - $99/month
+- 10,000 API calls per month
+- Priority email support (24-hour response time)
+- Advanced analytics and reporting
+- Custom integrations support
+- 5 user accounts
+- API rate limit: 1000 requests/hour
+
+Enterprise Plan - Custom Pricing
+- Unlimited API calls
+- Dedicated account manager
+- 24/7 phone and email support
+- SLA guarantee (99.9% uptime)
+- Custom integrations and onboarding
+- Unlimited user accounts
+- Priority queue processing
+- Advanced security features
+
+Billing Cycle
+- Monthly billing: Charged on the same day each month
+- Annual billing: Save 20% with annual commitment
+- Usage overage: $0.10 per additional API call (Starter/Professional)
+
+Payment Methods
+- Credit/Debit cards (Visa, MasterCard, American Express)
+- PayPal
+- Wire transfer (Enterprise only)
+- Purchase orders (Enterprise only)
+
+Refund Policy
+- 30-day money-back guarantee for new customers
+- Pro-rated refunds for annual plans
+- No refunds for usage-based overage charges
+
+Upgrade/Downgrade
+- Upgrade anytime: Charges prorated immediately
+- Downgrade: Takes effect at next billing cycle
+- No cancellation fees
+
+Invoicing
+- Automatic invoices sent to billing email
+- Detailed usage reports available
+- Tax invoices available on request

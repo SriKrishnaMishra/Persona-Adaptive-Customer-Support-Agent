@@ -1,0 +1,55 @@
+Account Setup and Management Guide
+
+Creating Your Account
+1. Visit https://platform.example.com/signup
+2. Enter your email address and create a strong password
+3. Verify your email address (check spam folder)
+4. Complete your profile with company information
+5. Choose your subscription plan
+
+Generating API Keys
+1. Log into your dashboard
+2. Navigate to Settings > API Keys
+3. Click "Generate New Key"
+4. Give your key a descriptive name
+5. Copy the key immediately (it won't be shown again)
+6. Set appropriate permissions (read/write/admin)
+
+Account Security
+- Enable two-factor authentication (2FA)
+- Use strong, unique passwords
+- Regularly rotate API keys (every 90 days)
+- Monitor account activity logs
+- Set up IP whitelisting for additional security
+
+Managing Team Members
+1. Go to Settings > Team Management
+2. Click "Invite Team Member"
+3. Enter email address and select role
+4. Choose permissions for each team member
+5. Team member receives invitation email
+
+Roles and Permissions
+Owner: Full access to all features and billing
+Admin: Manage users, API keys, and settings
+Developer: Create and manage API keys, view analytics
+Viewer: Read-only access to dashboard and analytics
+
+Data Privacy and Compliance
+- GDPR compliant for EU customers
+- Data encryption in transit and at rest
+- Regular security audits
+- SOC 2 Type II certified
+- Data retention: 30 days for free accounts
+
+Troubleshooting Account Issues
+Can't log in: Use "Forgot Password" link
+Email not verified: Check spam folder or request new verification
+API key not working: Verify key is active and has correct permissions
+Account locked: Contact support for assistance
+
+Canceling Your Account
+- Export your data before cancellation
+- Service continues until end of billing period
+- API keys become inactive immediately
+- Data deleted after 30-day grace period

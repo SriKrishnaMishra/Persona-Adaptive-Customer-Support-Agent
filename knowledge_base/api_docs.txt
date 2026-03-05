@@ -1,0 +1,38 @@
+API Documentation and Troubleshooting
+
+Authentication
+- API keys are 32-character strings starting with 'sk_'
+- Include API key in Authorization header: Bearer sk_your_key_here
+- API keys expire after 90 days of inactivity
+
+Common Error Codes
+400 Bad Request: Invalid request format or missing required parameters
+401 Unauthorized: Invalid or expired API key
+403 Forbidden: Insufficient permissions for requested resource
+404 Not Found: Endpoint does not exist
+429 Too Many Requests: Rate limit exceeded (1000 requests/hour)
+500 Internal Server Error: Server-side issue
+
+Rate Limiting
+- Free tier: 1000 requests per hour
+- Pro tier: 10,000 requests per hour
+- Enterprise: Unlimited requests
+
+API Endpoints
+GET /api/v1/status - Check system status
+POST /api/v1/analyze - Analyze data (requires authentication)
+GET /api/v1/results/{id} - Retrieve analysis results
+DELETE /api/v1/data/{id} - Delete specific data
+
+Troubleshooting Steps for 500 Errors
+1. Verify your API key is valid and not expired
+2. Check request payload format matches API specification
+3. Ensure endpoint URL is correct
+4. Review rate limit usage in dashboard
+5. Check system status page for ongoing issues
+
+Best Practices
+- Always handle 429 errors with exponential backoff
+- Cache responses when possible to reduce API calls
+- Use HTTPS for all API requests
+- Never expose API keys in client-side code
